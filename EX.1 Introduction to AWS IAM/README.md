@@ -70,6 +70,6 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** Sanjit A(212224220087)
-**Course:** Introduction to Cloud Computing  
+### **Name:** Sanjit A (212224220087)
+### **Course:** Introduction to Cloud Computing  
 
